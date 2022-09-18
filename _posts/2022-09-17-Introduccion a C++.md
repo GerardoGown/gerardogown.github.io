@@ -27,4 +27,4 @@ tags:
 
 # Instalacion de Sublime text
 
-aqui les voy a dejar el link directo para la instalacion de sublime text
+aqui les voy a dejar el link directo para la instalacion de sublime text [](https://www.sublimetext.com/download "Download sublime text")
