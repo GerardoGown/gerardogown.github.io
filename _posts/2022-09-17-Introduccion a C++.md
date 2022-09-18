@@ -10,4 +10,5 @@ Muy buenas aqui les traigo un blog donde enseñara como iniciar a programar en C
 
 # Instalacion de Sublime text
 
-aqui les voy a dejar el link directo para la instalacion de sublime text [](https://www.sublimetext.com/download "Download sublime text")
+aqui les voy a dejar el link directo para la instalacion de sublime text
+[](https://www.sublimetext.com/download "Download sublime text")
