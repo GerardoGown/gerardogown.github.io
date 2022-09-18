@@ -1,14 +1,5 @@
 
---- categories:
-    - Programming
-tags:
-  	- C++
-![](/assets/images/htb-writeup-helpline/helpline_logo.png)
----
-
-# Introduccion a C++
 Muy buenas aqui les traigo un blog donde enseñara como iniciar a programar en C++. Comenzare explicando la instalacion de un ID para escribir codigo, agregar e instalar el compilador en nuestro sistema y sin nada mas que decir empezemos con esto :D
-
 
 # Pasos a seguir
 
