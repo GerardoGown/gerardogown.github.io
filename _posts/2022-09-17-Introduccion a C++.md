@@ -1,11 +1,11 @@
 ---
 layout: single
 title: Introduccion a Programacion - C++
-excerpt: "Muy buenas aqui les traigo un blog donde enseñara como iniciar a programar en C++. Comenzare explicando la instalacion de un ID para escribir codigo, agregar e instalar el compilador en nuestro sistema y sin nada mas que decir empezemos con esto :D."
+excerpt: "Muy buenas aqui les traigo un blog donde enseñare como iniciar a programar en C++. Comenzare explicando la instalacion de un ID para escribir codigo, agregar e instalar el compilador en nuestro sistema y  escribir tu primera linea de codigo sin nada mas que decir empezemos con esto :D."
 date: 2022-09-18
 classes: wide
 header:
-  teaser: /assets/images/C++-images/IntroductionC++.jpg
+  teaser: /assets/images/IntroduccionC++-images/IntroductionC++.jpg
   teaser_home_page: true
 #  icon: /assets/images/hackthebox.webp
 categories:
@@ -24,5 +24,5 @@ tags:
 
 # Instalacion de Sublime text
 
-aqui les voy a dejar el link directo para la instalacion de sublime text
-[](https://www.sublimetext.com/download "Download sublime text")
+Comenzamos instalando Sublime text, esto es ralmente sencillo nos dirigimos al link que les voy a dejar en la parte de abajo 
+* [Download Sublime Text](https://www.sublimetext.com/download)
