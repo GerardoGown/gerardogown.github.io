@@ -40,4 +40,15 @@ La funcion **int main()** indica nuestra primera funcion por defecto, los corche
 La línea 8 una linea de sentencia, y esta nos indica por medio del **return** lo que la función debe retornar, en este caso, nos está diciendo que la función main(), deberá retornar cero cada vez que termine, en realidad la función main podría retornar cualquier cosa o incluso nada, podría retornar cualquier tipo de variable o incluso la variable numero misma, pero se ha establecido por acuerdo que siempre debería retornar 0, pues dado el caso en que retorne otro valor estando la sentencia return 0; dentro de ella, esto implicaría que hay algún error en la ejecución del programa. Aquí está la importancia de poner al main retornando un valor de tipo int.
 
 
+## Apoyo al escribir codigo en C++
+
+En C++ tambien se pueden agregar comentarios, los comentarios son lineas de codigo que no son tomadas en cuenta por el compilador una vez que este es ejecutado, los comentarios son de gran utilidad para poder explicar que hace una parte de nuestro codigo y asi mismo pueda ser comprensible en caso de que otra persona necesite leer nuestro codigo, existen dos formas de hacer un comentario y estas no estan sujetas a restricciones de sintaxis o algo similar.
+Tipos de comentarios:
+
+**Comentarios de una sola linea** pueden ser colocados en cualquier parte y comienzan por un doble slash, todo lo que este delante del slash se tomara como un comentario, las lineas de arriba y abajo no se veran afectadas
+
+**Comentarios Multi-lineas** al igual que los comentarios de una linea estos pueden ir en cualquier lado, su sintaxis es la siguiente, comienza con un slash seguido de un asterisco y para cerrar el comentario inicia con un asterisco y temina con un slash
+
+[Comentarios](/assets/images/IntroduccionC++-images/comentarios.png)
+
 <br>
