@@ -27,24 +27,16 @@ C++ fue creado a mediados de los años 80 por el danes **Bjarne Stroustrup**, es
 
 Un programa en C++ en una coleccion de comandos o sentencias, a continuacion les mostrare la estructura basica de C++
 
-``` C++
-#include <iostream>
-
-using namespace std;
-
-int main() {
-
-
-    return 0;
-}
-```
+[Estructura de C++](/assets/images/IntroduccionC++-images/StrucBasic.png)
 
 > include iostream
 
 C++ ofrece varios encabezados, **include iostream** es uno de muchos, forma parte de la libreria STL que contiene los algoritmos estandar, este es quiza la mas usada e importante (aunque no indispensable)
 
-> int main() {}
+> int main() { return 0; }
 
 La funcion **int main()** indica nuestra primera funcion por defecto, los corchetes **{}** indican el inicio y final de una funcion, donde podremos escribir codigo, tambien es conocido como el cuerpo de la funcion
+
+La condicion **return 0;** indica el tipo de retorno que nuestra funcion main va a retornar, por ejemplo nuestra funcion principal es int main esta al ser de tipo entero nos debera retornar un valor, por ahora no se preocupen por esto, ya que lo estaremos viendo mas adelante, aprenderemos a usar el return de forma eficaz
 
 <br>
