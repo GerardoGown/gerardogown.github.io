@@ -27,7 +27,11 @@ C++ fue creado a mediados de los años 80 por el danes **Bjarne Stroustrup**, es
 
 Un programa en C++ en una coleccion de comandos o sentencias, a continuacion les mostrare la estructura basica de C++
 
+<center>
+
 ![Estructura de C++](/assets/images/IntroduccionC++-images/StrucBasic.png)
+
+</center>
 
 > include iostream
 
