@@ -48,11 +48,10 @@ Tipos de comentarios:
 
 * **Comentarios de una sola linea** pueden ser colocados en cualquier parte y comienzan por un doble slash, todo lo que este delante del slash se tomara como un comentario, las lineas de arriba y abajo no se veran afectadas
 
-[](/assets/images/IntroduccionC++-images/comentarioUnalinea.png)
+[Comment C++](/assets/images/IntroduccionC++-images/comentarioUnalinea.png)
 
 
 * **Comentarios Multi-lineas** al igual que los comentarios de una linea estos pueden ir en cualquier lado, su sintaxis es la siguiente, comienza con un slash seguido de un asterisco y para cerrar el comentario inicia con un asterisco y temina con un slash
 
-[](/assets/images/IntroduccionC++-images/comentarioMulti.png)
 
 <br>
