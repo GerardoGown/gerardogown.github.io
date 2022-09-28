@@ -32,15 +32,14 @@ Un programa en C++ en una coleccion de comandos o sentencias, a continuacion les
 
 > include iostream
 
-C++ ofrece varios encabezados, **'#include <iostream>'** es uno de muchos, forma parte de la libreria STL que contiene los algoritmos estandar, este es quiza la mas usada e importante (aunque no indispensable)
+C++ ofrece varios encabezados, `#include <iostream>` es uno de muchos, forma parte de la libreria STL que contiene los algoritmos estandar, este es quiza la mas usada e importante (aunque no indispensable)
 
 > int main() { return 0; }
 
-La funcion **int main()** indica nuestra primera funcion por defecto, los corchetes **{}** indican el inicio y final de una funcion, donde podremos escribir codigo, tambien es conocido como el cuerpo de la funcion
+La funcion `int main()` indica nuestra primera funcion por defecto, los corchetes `{}` indican el inicio y final de una funcion, donde podremos escribir codigo, tambien es conocido como el cuerpo de la funcion
 
-La línea 8 una linea de sentencia, y esta nos indica por medio del **return** lo que la función debe retornar, en este caso, nos está diciendo que la función main(), deberá retornar cero cada vez que termine, en realidad la función main podría retornar cualquier cosa o incluso nada, podría retornar cualquier tipo de variable o incluso la variable numero misma, pero se ha establecido por acuerdo que siempre debería retornar 0, pues dado el caso en que retorne otro valor estando la sentencia return 0; dentro de ella, esto implicaría que hay algún error en la ejecución del programa. Aquí está la importancia de poner al main retornando un valor de tipo int.
+La línea 8 una linea de sentencia, y esta nos indica por medio del `return` lo que la función debe retornar, en este caso, nos está diciendo que la función main(), deberá retornar cero cada vez que termine, en realidad la función main podría retornar cualquier cosa o incluso nada, podría retornar cualquier tipo de variable o incluso la variable numero misma, pero se ha establecido por acuerdo que siempre debería retornar 0, pues dado el caso en que retorne otro valor estando la sentencia return 0; dentro de ella, esto implicaría que hay algún error en la ejecución del programa. Aquí está la importancia de poner al main retornando un valor de tipo int.
 
-<br>
 
 ## Documentacion de codigo
 
@@ -50,20 +49,21 @@ En C++ tambien se pueden agregar comentarios, los comentarios son lineas de codi
 ## Tipos de comentarios:
 
 
+**Comentarios de una sola linea:**.
 
-* **Comentarios de una sola linea** pueden ser colocados en cualquier parte y comienzan por un doble slash, todo lo que este delante del slash se tomara como un comentario, las lineas de arriba y abajo no se veran afectadas
-
-<center>
+Estos pueden ser colocados en cualquier parte y comienzan por un doble slash `//`, todo lo que este delante del slash se tomara como un comentario, las lineas de arriba y abajo no se veran afectadas
 
 ![Commetn C++](/assets/images/IntroduccionC++-images/comentarioUnalinea.png)
-
-</center>
 
 <br>
 
 
-* **Comentarios Multi-lineas** al igual que los comentarios de una linea estos pueden ir en cualquier lado, su sintaxis es la siguiente, comienza con un slash seguido de un asterisco y para cerrar el comentario inicia con un asterisco y temina con un slash
+**Comentarios Multi-lineas:**. 
+
+Al igual que los comentarios de una linea estos pueden ir en cualquier lado, su sintaxis es la siguiente, comienza con un slash seguido de un asterisco y para cerrar el comentario inicia con un asterisco y temina con un slash `7* comment here */`
 
 ![Comment C++](/assets/images/IntroduccionC++-images/comentarioMulti.png)
 
 <br>
+
+Muy bien, ya que conoces la estructura básica de un programa en C++, y una forma de documentar tu codigo, en la siguientes secciones vamos a ir mucho mas profundo, vamos a conocer otras nuevas estructuras y elementos usados comúnmente. Recuerda si tienes alguna duda o gustas aportar puedes mandarme un correo acerca de este contenido en particular y ayudarme a mejorar cada vez más el sitio. ¡¡Vamos ya!!.
