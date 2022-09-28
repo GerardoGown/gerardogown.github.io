@@ -16,6 +16,7 @@ tags:
 
 # ¿Que es C++?
 
+
 **C++** tiende a ser la razon por la que cerca de la mitad de los ingenieros en sistemas se gradua sin saber programar.
 
 Tambien C++ es uno de los primeros lenguajes de programacion asi mismo es uno de los lenguajes mas robustos y usados en el mundo, en C++ esta muy probablemente programado el sistema operativo en el que estas leyendo esto, ya que es un lenguaje multiplataforma, que se puede utilizar para crear aplicaciones de alto rendimiento: sistemas operativos, navegadores, videojuegos, aplicaciones artísticas, etc.
@@ -38,7 +39,7 @@ C++ ofrece varios encabezados, `#include <iostream>` es uno de muchos, forma par
 
 La funcion `int main()` indica nuestra primera funcion por defecto, los corchetes `{}` indican el inicio y final de una funcion, donde podremos escribir codigo, tambien es conocido como el cuerpo de la funcion
 
-La línea 8 una linea de sentencia, y esta nos indica por medio del `return` lo que la función debe retornar, en este caso, nos está diciendo que la función main(), deberá retornar cero cada vez que termine, en realidad la función main podría retornar cualquier cosa o incluso nada, podría retornar cualquier tipo de variable o incluso la variable numero misma, pero se ha establecido por acuerdo que siempre debería retornar 0, pues dado el caso en que retorne otro valor estando la sentencia return 0; dentro de ella, esto implicaría que hay algún error en la ejecución del programa. Aquí está la importancia de poner al main retornando un valor de tipo int.
+La línea 8 una linea de sentencia, y esta nos indica por medio del `return 0;` lo que la función debe retornar, en este caso, nos está diciendo que la función main(), deberá retornar cero cada vez que termine, en realidad la función main podría retornar cualquier cosa o incluso nada, podría retornar cualquier tipo de variable o incluso la variable numero misma, pero se ha establecido por acuerdo que siempre debería retornar 0, pues dado el caso en que retorne otro valor estando la sentencia return 0; dentro de ella, esto implicaría que hay algún error en la ejecución del programa. Aquí está la importancia de poner al main retornando un valor de tipo int.
 
 
 ## Documentacion de codigo
@@ -65,5 +66,6 @@ Al igual que los comentarios de una linea estos pueden ir en cualquier lado, su 
 ![Comment C++](/assets/images/IntroduccionC++-images/comentarioMulti.png)
 
 <br>
+
 
 Muy bien, ya que conoces la estructura básica de un programa en C++, y una forma de documentar tu codigo, en la siguientes secciones vamos a ir mucho mas profundo, vamos a conocer otras nuevas estructuras y elementos usados comúnmente. Recuerda si tienes alguna duda o gustas aportar puedes mandarme un correo acerca de este contenido en particular y ayudarme a mejorar cada vez más el sitio. ¡¡Vamos ya!!.
