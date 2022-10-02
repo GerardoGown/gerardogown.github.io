@@ -17,7 +17,7 @@ tags:
 # ¿Que es C++?
 
 
-**C++** tiende a ser la razon por la que cerca de la mitad de los ingenieros en sistemas se gradua sin saber programar.
+**C++** tiende a ser la razon por la que cerca de la mitad de los ingenieros en sistemas en latinoamerica se graduan sin saber programar.
 
 Tambien C++ es uno de los primeros lenguajes de programacion asi mismo es uno de los lenguajes mas robustos y usados en el mundo, en C++ esta muy probablemente programado el sistema operativo en el que estas leyendo esto, ya que es un lenguaje multiplataforma, que se puede utilizar para crear aplicaciones de alto rendimiento: sistemas operativos, navegadores, videojuegos, aplicaciones artísticas, etc.
 
@@ -27,13 +27,14 @@ C++ fue creado a mediados de los años 80 por el danes **Bjarne Stroustrup**, es
 
 ## Estructura basica de C++
 
-Un programa en C++ en una coleccion de comandos o sentencias, a continuacion les mostrare la estructura basica de C++
+Un programa en C++ en una coleccion de comandos o sentencias abajo les dejo como es la estructura basica en C++.
 
 ![Struc Basic](/assets/images/IntroduccionC++-images/StrucBasic.png)
 
+
 > include iostream
 
-C++ ofrece varios encabezados, `#include <iostream>` es uno de muchos, forma parte de la libreria STL que contiene los algoritmos estandar, este es quiza la mas usada e importante (aunque no indispensable)
+Y continuando con C++ este ofrece varios encabezados, `#include <iostream>` es uno de muchos, forma parte de la libreria STL que contiene los algoritmos estandar, este es quiza la mas usada e importante (aunque no indispensable)
 
 > int main() { return 0; }
 
