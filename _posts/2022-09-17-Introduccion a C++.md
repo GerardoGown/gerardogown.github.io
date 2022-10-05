@@ -36,7 +36,7 @@ Un programa en C++ en una coleccion de comandos o sentencias que en distintas oc
 
 **Linea 1:** C++ ofrece varios encabezados, `#include <iostream>` es uno de muchos, forma parte de la libreria STL que contiene los algoritmos estandar, este es quiza la mas usada e importante (aunque no indispensable)
 
-> using namespace std;
+
 
 **Linea 3:** el `using namespace std;` namespace en una colección nombres o identificadores relacionados *(funciones, clases, variables)* que ayudan a separar estos identificadores de identificadores similares en otros espacios de nombres.
 
@@ -50,7 +50,7 @@ Para usar cualquier identificador que pertenezca a la biblioteca estándar std, 
 
 Al agregar el **using namespace std;** no es necesario usar el **std::**, ya que este nor permitira usar las instrucciones mencianadas arriba *cout, cin y endl*
 
-> int main() { return 0; }
+`int main() { return 0; } `
 
 La funcion `int main()` indica nuestra primera funcion por defecto, los corchetes `{}` indican el inicio y final de una funcion, dentro de los corchetes es donde podremos escribir codigo, todo lo que se encuentra dentro de estos mismos tambien es conocido como el cuerpo de la funcion
 
@@ -66,6 +66,7 @@ En C++ tambien se pueden agregar comentarios, los comentarios son lineas de codi
 
 ## Tipos de comentarios:
 
+<br>
 
 **Comentarios de una sola linea:**.
 
@@ -78,7 +79,7 @@ Estos pueden ser colocados en cualquier parte y comienzan por un doble slash `//
 
 **Comentarios Multi-lineas:**. 
 
-Al igual que los comentarios de una linea estos pueden ir en cualquier lado, su sintaxis es la siguiente, comienza con un slash seguido de un asterisco y para cerrar el comentario inicia con un asterisco y temina con un slash `7* comment here */`
+Al igual que los comentarios de una linea estos pueden ir en cualquier lado, y asi mismo tampoco afecta lo que escribas dentro de estos, su sintaxis es la siguiente, comienza con un slash seguido de un asterisco y para cerrar el comentario inicia con un asterisco y temina con un slash `/* comment here */`
 
 ![Comment C++](/assets/images/IntroduccionC++-images/comentarioMulti.png)
 
