@@ -36,19 +36,19 @@ Un programa en C++ en una coleccion de comandos o sentencias que en distintas oc
 **Linea 1:** C++ ofrece varios encabezados, `#include <iostream>` es uno de muchos, forma parte de la libreria STL que contiene los algoritmos estandar, este es quiza la mas usada e importante (aunque no indispensable)
 
 
-**Linea 3:** el `using namespace std;` namespace en una colección nombres o identificadores relacionados *(funciones, clases, variables)* que ayudan a separar estos identificadores de identificadores similares en otros espacios de nombres.
+**Linea 3:** el `using namespace std;` es una colección nombres o identificadores relacionados *(funciones, clases, variables)* que ayudan a separar estos identificadores de identificadores similares en otros espacios de nombres.
 
 Los identificadores de la biblioteca estándar se definen en un espacio de nombres llamado std, algunas palabras dentro del **std** son: **cout, cin, endl** etc.
 
 Para usar cualquier identificador que pertenezca a la biblioteca estándar std, debemos especificar que pertenece al espacio std. Una forma de hacerlo es usando el operador de resolución de alcance **::**, pero este solo nos servira en caso de querer quitar el `using namespace std;`. Por ejemplo,
 
-`
 ```C++
-    std::cout << "Hello world!";
+    std::cout << "Hello World!";
 ```
-`
 
-Al agregar el **using namespace std;** no es necesario usar el **std::**, ya que este nor permitira usar las instrucciones mencianadas arriba *cout, cin y endl*
+La instruccion **cout** nos sirve para imprimir, traducido al español significa *salida de C*, entonces en la instruccion anterior le decimos: del espacio de nombres std utiliza cout e imprime Hello World.
+
+Al agregar el **using namespace std;** no es necesario usar el **std::**, ya que este nor permitira usar las instrucciones por defecto mencionadas arriba *cout, cin y endl* etc.
 
 
 **Linea 5:** La funcion `int main()` indica nuestra primera funcion por defecto, los corchetes `{}` indican el inicio y final de una funcion, dentro de los corchetes es donde podremos escribir codigo, todo lo que se encuentra dentro de estos mismos tambien es conocido como el cuerpo de la funcion
