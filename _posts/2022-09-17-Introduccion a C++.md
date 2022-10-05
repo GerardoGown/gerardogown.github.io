@@ -32,10 +32,8 @@ Un programa en C++ en una coleccion de comandos o sentencias que en distintas oc
 ![Struc Basic](/assets/images/IntroduccionC++-images/StrucBasic.png)
 
 
-> include iostream
 
 **Linea 1:** C++ ofrece varios encabezados, `#include <iostream>` es uno de muchos, forma parte de la libreria STL que contiene los algoritmos estandar, este es quiza la mas usada e importante (aunque no indispensable)
-
 
 
 **Linea 3:** el `using namespace std;` namespace en una colección nombres o identificadores relacionados *(funciones, clases, variables)* que ayudan a separar estos identificadores de identificadores similares en otros espacios de nombres.
@@ -44,15 +42,16 @@ Los identificadores de la biblioteca estándar se definen en un espacio de nombr
 
 Para usar cualquier identificador que pertenezca a la biblioteca estándar std, debemos especificar que pertenece al espacio std. Una forma de hacerlo es usando el operador de resolución de alcance **::**, pero este solo nos servira en caso de querer quitar el `using namespace std;`. Por ejemplo,
 
+`
 ```C++
     std::cout << "Hello world!";
 ```
+`
 
 Al agregar el **using namespace std;** no es necesario usar el **std::**, ya que este nor permitira usar las instrucciones mencianadas arriba *cout, cin y endl*
 
-`int main() { return 0; } `
 
-La funcion `int main()` indica nuestra primera funcion por defecto, los corchetes `{}` indican el inicio y final de una funcion, dentro de los corchetes es donde podremos escribir codigo, todo lo que se encuentra dentro de estos mismos tambien es conocido como el cuerpo de la funcion
+**Linea 5:** La funcion `int main()` indica nuestra primera funcion por defecto, los corchetes `{}` indican el inicio y final de una funcion, dentro de los corchetes es donde podremos escribir codigo, todo lo que se encuentra dentro de estos mismos tambien es conocido como el cuerpo de la funcion
 
 La línea 8, una linea de sentencia, y esta nos indica por medio del `return 0;` lo que la función debe retornar, en este caso, nos está diciendo que la función main(), deberá retornar cero cada vez que termine, en realidad la función main podría retornar cualquier cosa o incluso nada, podría retornar cualquier tipo de variable o incluso la variable numero misma, pero se ha establecido por acuerdo que siempre debería retornar 0, pues dado el caso en que retorne otro valor estando la sentencia return 0; dentro de ella, esto implicaría que hay algún error en la ejecución del programa. Aquí está la importancia de poner al main retornando un valor de tipo int.
 
