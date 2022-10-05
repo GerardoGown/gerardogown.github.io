@@ -70,16 +70,15 @@ En C++ tambien se pueden agregar comentarios, los comentarios son lineas de codi
 
 **Comentarios de una sola linea:**.
 
-Estos pueden ser colocados en cualquier parte y comienzan por un doble slash `//`, todo lo que este delante del slash se tomara como un comentario, las lineas de arriba y abajo no se veran afectadas
+Estos pueden ser colocados en cualquier parte y comienzan por un doble slash `//`, todo lo que este delante del slash se tomara como un comentario, por lo tanto puedes escribir lo que sea, todo lo que este dentro de un comentario no tiene una relga de sintaxis y no te preocupes por la lina de abajo o de arriba ya que estas no se veran afectadas
 
 ![Commetn C++](/assets/images/IntroduccionC++-images/comentarioUnalinea.png)
 
 <br>
 
-
 **Comentarios Multi-lineas:**. 
 
-Al igual que los comentarios de una linea estos pueden ir en cualquier lado, y asi mismo tampoco afecta lo que escribas dentro de estos, su sintaxis es la siguiente, comienza con un slash seguido de un asterisco y para cerrar el comentario inicia con un asterisco y temina con un slash `/* comment here */`
+Al igual que los comentarios de una linea estos pueden ir en cualquier lado y asi mismo tampoco afecta lo que escribas dentro de estos, la forma en la que se escribe es la siguiente: `/* comment here */` comienza con un slash seguido de un asterisco y para cerrar el comentario inicia con un asterisco y temina con un slash, bastante sencillo, no ?
 
 ![Comment C++](/assets/images/IntroduccionC++-images/comentarioMulti.png)
 
