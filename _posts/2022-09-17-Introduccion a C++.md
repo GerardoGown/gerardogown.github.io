@@ -60,10 +60,9 @@ La línea 8, una linea de sentencia, y esta nos indica por medio del `return 0;`
 
 En C++ tambien se pueden agregar comentarios, los comentarios son lineas de codigo que no son tomadas en cuenta por el compilador una vez que este es ejecutado, los comentarios son de gran utilidad para poder explicar que hace una determinada parte de nuestro codigo y asi mismo pueda ser comprensible en caso de que otras personas necesiten leerlo, existen dos formas de hacer un comentario y estas no estan sujetas a restricciones de sintaxis *forma y orden en la que se debe escribir una instruccion, oracion, palabras etc.*, por lo cual seras libre de escribir lo que desees en un comentario.
 
-<br>
 
 
-## Tipos de comentarios:
+## Tipos de comentarios
 
 <br>
 
