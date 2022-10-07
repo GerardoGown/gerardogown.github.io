@@ -21,23 +21,23 @@ tags:
 
 Tambien es uno de los primeros lenguajes de programacion asi mismo es uno de los lenguajes mas robustos y usados en el mundo, en C++ esta muy probablemente programado el sistema operativo en el que estas leyendo esto, ya que es un lenguaje multiplataforma, que se puede utilizar para crear aplicaciones de alto rendimiento: sistemas operativos, navegadores, videojuegos, aplicaciones artísticas, etc.
 
-C++ fue creado a mediados de los años 80 por el danes **Bjarne Stroustrup**, este lenguaje se creo con la intencion de que fuera una extencion del lenguaje C para que pudiera ser multiparadigma*(contiene los paradigmas de programacion y es orientado a objetos)*, asi que en gran medida este lenguaje de programacion esta basado en C.
+C++ fue creado a mediados de los años 80 por el danes **Bjarne Stroustrup**, este lenguaje se creo con la intencion de que fuera una extencion del lenguaje C para que pudiera ser multiparadigma que significa que contiene los paradigmas de programacion y es orientado a objetos, asi que en gran medida este lenguaje de programacion esta basado en C.
 
 <br>
 
 ## Estructura basica de C++
 
-Un programa en C++ en una coleccion de comandos o sentencias que en distintas ocasiones nos va a permitir hacer llamadas directas al sistema operativo, ya que tiene un acceso directo a la memoria, que ademas controla el usuario, tambien nos sirve para crear datos complejos relacionar estos mismos datos, implementar patrones de diseño etc. Aqui abajo les dejo como es la estructura basica en C++ y posteriormente explicare que hace cada linea de codigo
+Un programa en C++ en una coleccion de comandos o sentencias que en distintas ocasiones nos va a permitir hacer llamadas directas al sistema operativo, ya que tiene un acceso directo a la memoria y que ademas controla el usuario, tambien nos sirve para crear datos complejos relacionar estos mismos datos, implementar patrones de diseño etc. Aqui abajo les dejo como es la estructura basica en C++ y posteriormente explicare que hace cada linea de codigo
 
 ![Struc Basic](/assets/images/IntroduccionC++-images/StrucBasic.png)
 
 <br>
 
-**Linea 1:** C++ ofrece varios encabezados, `#include <iostream>` es uno de muchos, forma parte de la libreria STL que contiene los algoritmos estandar, este es quiza la mas usada e importante (aunque no indispensable)
+**Linea 1:** C++ ofrece varios encabezados, `#include <iostream>` es uno de muchos, forma parte de la libreria STL que contiene los algoritmos estandar, este es quiza la mas usada e importante aunque no la mas indispensable.
 
-**Linea 3:** el `using namespace std;` es una colección nombres o identificadores relacionados *(funciones, clases, variables)* que ayudan a separar estos identificadores de identificadores similares en otros espacios de nombres.
+**Linea 3:** el `using namespace std;` es una colección nombres o identificadores relacionados son funciones, clases, variables que ayudan a separar estos identificadores de identificadores similares en otros espacios de nombres.
 
-Los identificadores de la biblioteca estándar se definen en un espacio de nombres llamado std, algunas palabras dentro del **std** son: **cout, cin, endl** etc.
+Los identificadores de la biblioteca estándar se definen en un espacio de nombres llamado std, algunas palabras dentro del son: **cout, cin, endl** etc.
 
 Para usar cualquier identificador que pertenezca a la biblioteca estándar std, debemos especificar que pertenece al espacio std. Una forma de hacerlo es usando el operador de resolución de alcance **::**, pero este solo nos servira en caso de querer quitar el `using namespace std;`. Por ejemplo,
 
