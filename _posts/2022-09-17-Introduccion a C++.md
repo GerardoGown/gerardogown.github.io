@@ -35,9 +35,7 @@ Aqui abajo les dejo como es la estructura basica en C++ y posteriormente explica
 
 **Linea 1:** C++ ofrece varios encabezados, `#include <iostream>` es uno de muchos, forma parte de la libreria STL que contiene los algoritmos estandar, este es quiza la mas usada e importante aunque no la mas indispensable.
 
-**Linea 3:** el `using namespace std;` es una colección de nombres o identificadores relacionados con funciones, clases y variables que ayudan a separar estos identificadores de identificadores similares en otros espacios de nombres.
-
-Los identificadores de la biblioteca estándar se definen en un espacio de nombres llamado std, algunas palabras dentro de el son: **cout, cin, endl** etc. Mas adelante vamos a utilizar estos identificadores para crear nuestro primer codigo.
+**Linea 3:** El `using namespace std;` es una colección de nombres o identificadores relacionados con funciones, clases y variables que ayudan a separar estos identificadores de identificadores similares en otros espacios de nombres. Los identificadores de la biblioteca estándar se definen en un espacio de nombres llamado std, algunas palabras dentro del std son: **cout, cin, endl** etc. Mas adelante vamos a utilizar estos identificadores para crear nuestro primer codigo.
 
 Para usar cualquier identificador que pertenezca a la biblioteca estándar std, debemos especificar que pertenece al espacio std. Una forma de hacerlo es usando el operador de resolución de alcance **::**.
 
@@ -53,8 +51,6 @@ Existen dos formas de hacer un comentario y estas no estan sujetas a restriccion
 
 
 ## Tipos de comentarios
-
-<br>
 
 **Comentarios de una sola linea:**.
 
@@ -75,6 +71,9 @@ Bastante sencillo, no ?
 <br>
 
 # Nuestra primera linea de codigo
+
+*En desarrollo* . . .
+
 
 
 Muy bien, ya que conoces la estructura básica de un programa en C++, y una forma de documentar tu codigo, en las siguientes secciones vamos a ir mucho mas profundo, vamos a conocer otras nuevas estructuras y elementos usados comúnmente. Recuerda si tienes alguna duda o gustas aportar puedes mandarme un correo acerca de este contenido en particular y ayudarme a mejorar cada vez más el sitio. ¡¡Vamos ya!!.
