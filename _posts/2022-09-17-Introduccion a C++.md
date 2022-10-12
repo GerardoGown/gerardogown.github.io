@@ -72,8 +72,11 @@ Bastante sencillo, no ?
 
 # Nuestra primera linea de codigo
 
-*En desarrollo* . . .
+Me parece que la mejor forma de no perder el interés de los lectores de esta sección aburriéndolos con muchos conceptos y teorías, es mediante un ejemplo *(a todos nos gusta la práctica)*. Veamos entonces nuestro primer programa en C++, que aunque no es muy extenso ni complicado ni tampoco hace gran cosa, nos ayudará a establecer unas bases que resultarán muy útiles para los siguientes ejemplos que irán apareciendo durante el resto del curso. No te preocupes si no comprendes nada al principio, pues me encargaré de irte enseñando cada cosa y así estaremos mejor, si no entiendes algo o crees que me faltó explicar alguna cosa, dímelo, para eso puedes encontrar del lado izquierdo mi contacto
 
+El programa que vamos a realizar simplemente una variable que recibira el resultante de sumar *5 + 5*, cabe resaltar que en pantalla solo se mostrara un texto seguido del resultado de la suma, la ejecución del programa será prácticamente instantánea, abajo el ejemplo: 
+
+![first code line](/assets/images/IntroduccionC++-images/FirstLine.png)
 
 
 Muy bien, ya que conoces la estructura básica de un programa en C++, y una forma de documentar tu codigo, en las siguientes secciones vamos a ir mucho mas profundo, vamos a conocer otras nuevas estructuras y elementos usados comúnmente. Recuerda si tienes alguna duda o gustas aportar puedes mandarme un correo acerca de este contenido en particular y ayudarme a mejorar cada vez más el sitio. ¡¡Vamos ya!!.
