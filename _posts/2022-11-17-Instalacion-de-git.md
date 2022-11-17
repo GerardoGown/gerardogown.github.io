@@ -5,7 +5,7 @@ excerpt: "En este apartado podran instalar Git en su sistema operativo sin ningu
 date: 2022-11-17
 classes: wide
 header:
-  teaser: /assets/images/InstalacionDeGit
+  teaser: /assets/images/InstalacionDeGit/git.jpg
   teaser_home_page: true
 categories:
   - Tutoriales
