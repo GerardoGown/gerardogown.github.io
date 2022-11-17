@@ -10,7 +10,7 @@ header:
 categories:
   - Programacion
 tags:  
-  - C++
+  - C++ Programacion
 ---
 
 # ¿Que es C++?

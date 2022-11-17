@@ -8,12 +8,11 @@ header:
   teaser: /assets/images/InstalacionDeGit/git.jpg
   teaser_home_page: true
 categories:
-  - Tutoriales
+  - Tutorial
 tags:  
-  - Git
+  - Git Tutorial
 ---
 
-# Instalacion de git en windows
 
 ## Contenido
 
