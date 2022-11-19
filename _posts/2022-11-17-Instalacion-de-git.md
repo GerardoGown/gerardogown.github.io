@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Instalacion de Git en Windows
-excerpt: "En este apartado podran instalar Git en su sistema operativo sin ningun problema y paso a paso lo ire guiando para que todo salga bien, sin mas que decir vamos a darle."
+excerpt: "En este apartado vamos a instalar Git en nuestro sistema operativo windows sin ningun problema y paso a paso para que todo salga bien y sin mas que decir vamos a darle."
 date: 2022-11-17
 classes: wide
 header:
@@ -10,7 +10,7 @@ header:
 categories:
   - Tutorial
 tags:  
-  - Git Tutorial
+  - Git
 ---
 
 <br>

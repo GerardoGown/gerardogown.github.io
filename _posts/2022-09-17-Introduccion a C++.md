@@ -10,8 +10,16 @@ header:
 categories:
   - Programacion
 tags:  
-  - C++ Programacion
+  - C++ 
 ---
+
+# contenido
+* ¿Que es C++?
+* Estructura basica de C++
+* Documentacion del Codigo
+* Nuestra primera linea de codigo
+
+<br>
 
 # ¿Que es C++?
 
