@@ -37,6 +37,17 @@ C++ fue creado a mediados de los años 80 por el danes **Bjarne Stroustrup**, es
 Un programa en C++ en una coleccion de comandos o sentencias que en distintas ocasiones nos va a permitir hacer llamadas directas al sistema operativo, ya que tiene un acceso directo a la memoria y que ademas controla el usuario, tambien nos sirve para crear datos complejos relacionar estos mismos datos, implementar patrones de diseño etc.
 Aqui abajo les dejo como es la estructura basica en C++ y posteriormente explicare que hace cada linea de codigo
 
+```C++
+    #include <iostream>
+    using std::cout;
+
+    int main() {
+        
+
+        return 0;
+    }
+```
+
 ![Struc Basic](/assets/images/IntroduccionC++-images/StrucBasic.png)
 
 <br>
