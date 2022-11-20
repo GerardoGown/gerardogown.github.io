@@ -18,8 +18,8 @@ minimal_mistakes_skin    : "dark" #"haxor" # "air", "aqua", "contrast", "dark", 
 locale                   : "en-US"
 title                    : "Gerardo Gown"
 title_separator          : "-"
-name                     : "Gerardo"
-description              : "Posts about security, CTFs, networking and programming"
+name                     : "Gerardo Gown"
+description              : #"Posts about security, CTFs, networking and programming"
 url                      : "https://gerardogown.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "GerardoGown/gerardogown.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -103,7 +103,7 @@ analytics:
 author:
   name             : "Gerardo Gown"
   avatar           : "/assets/images/avatar.png"
-  bio              : "Programmer in C++"
+  bio              : "Programmer"
   location         : "Mexico"
   email            : "gerardo011204@gmail.com"
   uri              :
