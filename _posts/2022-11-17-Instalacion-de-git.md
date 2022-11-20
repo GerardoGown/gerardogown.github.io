@@ -13,7 +13,7 @@ tags:
   - Git
 ---
 
-<br>
+<br> <br>
 
 ## Contenido
 
