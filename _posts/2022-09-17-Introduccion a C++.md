@@ -59,7 +59,7 @@ En C++ tambien se pueden agregar comentarios, los comentarios son lineas de codi
 Existen dos formas de hacer un comentario y estas no estan sujetas a restricciones de sintaxis, la sintaxis es la forma en la que se debe escribir determinado lenguaje no solo de programacion si no tambien el español, el ingles etc. asi que podemos ser libres de escribir cualquier cosa dentro de un comentario
 
 
-## Tipos de comentarios
+### Tipos de comentarios
 
 **Comentarios de una sola linea:**.
 
@@ -72,10 +72,11 @@ Les dejo un ejemlplo abajo.
 
 **Comentarios Multi-lineas:**. 
 
-Al igual que los comentarios de una linea estos pueden ir en cualquier lado y asi mismo tampoco afecta lo que escribas dentro de estos, la sintaxis de un comentario de varias lineas es la siguiente`/*  */`, dentro del asteriscos es donde vamos a escribir nuesto comentar, les dejo un ejemplo de esta estructura abajo.
-Bastante sencillo, no ?
+Al igual que los comentarios de una linea estos pueden ir en cualquier lado y asi mismo tampoco afecta lo que escribas dentro de estos, la sintaxis de un comentario de varias lineas es la siguiente`/*  */`, dentro de los asteriscos es donde vamos a escribir nuesto comentario, les dejo un ejemplo de esta estructura abajo.
 
 ![Comment C++](/assets/images/IntroduccionC++-images/comentarioMulti.png)
+
+Bastante sencillo, no ?
 
 <br>
 
