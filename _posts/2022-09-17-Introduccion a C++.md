@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Introduccion a la Programacion - C++
+title: Introduccion a C++
 excerpt: "Bienbenidos a este curso de C++, en esta area les enseñare lo basico, donde programaremos nuestra primera linea de codigo, veremos la estrucutra por defecto y que hace cada parte parte."
 date: 2022-09-18
 classes: wide
