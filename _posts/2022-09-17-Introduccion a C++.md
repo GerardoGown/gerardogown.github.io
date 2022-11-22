@@ -85,7 +85,7 @@ Me parece que la mejor forma de no perder el interés de los lectores en esta se
 
 Aqui abajo tenemos un Codigo sencillo, lo unico que hace es mostrar un texto por pantalla el cual es el tipico "Hola Mundo"
 
-![Firt Line](/assets/images/IntroduccionC++-images/FirtLine.jpg)
+![Firt Line](/assets/images/IntroduccionC++-images/FirtsLine.jpg)
 
 Como habiamos explicado anteriormente el uso de cout nos permite mostrar texto por pantalla se le agregan dos signos de menor que *<<*, el cual se le llama como corrimiento de bits a la izquierda pero no se preocupen no tienen que entender esto por ahora, seguido de las comillas dobles, donde dentro de ellas ira todo tipo de texto que deseemos mostrar por pantalla y finalizamos con un punto y coma, esto es importante ya que estamos cerrando una instruccion, todas las instrucciones que le pasemos a un programa en C++ deben de terminar con un punto y coma *;*
 Prueba el codigo y escribe cualquier cosa dentro de las comillas!.
