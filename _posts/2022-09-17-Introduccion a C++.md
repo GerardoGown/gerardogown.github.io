@@ -85,7 +85,7 @@ Me parece que la mejor forma de no perder el interés de los lectores en esta se
 
 Aqui abajo tenemos un Codigo sencillo, lo unico que hace es mostrar un texto por pantalla el cual es el tipico "Hola Mundo"
 
-![Firts Line](/assets/images/IntroduccionC++-images/FirtsLine.jpg)
+![Firts Line](/assets/images/IntroduccionC++-images/FirstLine.jpg)
 
 Como habiamos explicado anteriormente el uso de cout nos permite mostrar texto por pantalla se le agregan dos signos de menor que *<<*, el cual se le llama como corrimiento de bits a la izquierda pero no se preocupen no tienen que entender esto por ahora, seguido de las comillas dobles, donde dentro de ellas ira todo tipo de texto que deseemos mostrar por pantalla y finalizamos con un punto y coma, esto es importante ya que estamos cerrando una instruccion, todas las instrucciones que le pasemos a un programa en C++ deben de terminar con un punto y coma *;*
 Prueba el codigo y escribe cualquier cosa dentro de las comillas!.
@@ -100,6 +100,12 @@ Como puedes notar fue algo senillo y rapido ahora para meterle algo mas de entre
 En C++, los flujos estándar de datos son cin para entrada y cout para salida. Además se pueden utilizar las funciones de C como scanf y printf. La entrada de datos para un programa en C++ generalmente consiste en números y cadenas de texto que son separados con espacios y nuevas líneas. Se pueden leer desde la corriente de cin como Sigue:
 
 ![First Code](/assets/images/IntroduccionC++-images/FirstCode.jpg)
+
+Bien por ahora no les daremos importancia a la linea 6 y 7, lo cual nos lleva directo a la linea 9 y 10 donde hacemos uso de cin y cout, usamos cin para poder ingresar datos por teclado seguido de los signos de mayor que *>>* para señalar donde se van a gurdar los datos ingresados.
+
+Con cout vamos a imprimir los que ingresamos, por ejemplo en la imagen yo ingrese **123**, **234** y **monkey**, y como vemos en la parte de negro, lo separamos por un espacio ya que estamos pidiendo la entrada de 3 datos, lo podemos notar por el signo de mayor que el cual señala tres espacios para ingresar datos por teclado, bien, ahora una vez que damos enter se nos muestra lo que ingresamos, en mi caso se ve lo mismo que ingrese, que fueron los numeros y una palabra y finaliza con el mensaje de programa terminado.
+
+Bien eso es el Input y Output *(entrada y salida)* de datos, en la siguiente seccion hablaremos mas acerca de variables y sus diferentes usos
 
 <br>
 
