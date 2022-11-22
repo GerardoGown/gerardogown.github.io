@@ -80,7 +80,15 @@ Bastante sencillo, no ?
 
 # Nuestra primera linea de codigo
 
-Me parece que la mejor forma de no perder el interés de los lectores de esta sección aburriéndolos con muchos conceptos y teorías, es mediante un ejemplo *(a todos nos gusta la práctica)*. Veamos entonces nuestro primer programa en C++, que aunque no es muy extenso ni complicado ni tampoco hace gran cosa, nos ayudará a establecer unas bases que resultarán muy útiles para los siguientes ejemplos que irán apareciendo durante el resto del curso. No te preocupes si no comprendes nada al principio, pues me encargaré de irte enseñando cada cosa y así estaremos mejor, si no entiendes algo o crees que me faltó explicar alguna cosa, dímelo, para eso puedes encontrar del lado izquierdo mi contacto
+Me parece que la mejor forma de no perder el interés de los lectores en esta sección con muchos conceptos y teorías, es mediante un ejemplo *(a todos nos gusta la práctica con ejemplos)*. Veamos, entonces nuestro primer programa en C++, que aunque no es muy extenso ni complicado ni tampoco hace gran cosa, nos ayudará a establecer las bases que resultarán muy útiles en los siguientes ejemplos que irán apareciendo durante el resto del curso. No te preocupes si no comprendes nada al principio, pues me encargaré de irte enseñando cada cosa y así no te pierdas, si no entiendes algo o crees que me faltó explicar alguna cosa, dímelo, para eso puedes encontrar del lado izquierdo mi contacto
+
+### Input & Output
+
+En C++, los flujos estándar de datos son cin para entrada y cout para salida. Además se pueden utilizar las funciones de C como scanf y printf. La entrada de datos para un programa en C++ generalmente consiste en números y cadenas de texto que son separados con espacios y nuevas líneas. Se pueden leer desde la corriente de cin como Sigue:
+
+![First Code](/assets/images/IntroduccionC++-images/FirstCode.jpg)
+
+
 
 El programa que vamos a realizar simplemente una variable que recibira el resultante de sumar *5 + 5*, cabe resaltar que en pantalla solo se mostrara un texto seguido del resultado de la suma, la ejecución del programa será prácticamente instantánea, abajo el ejemplo: 
 
