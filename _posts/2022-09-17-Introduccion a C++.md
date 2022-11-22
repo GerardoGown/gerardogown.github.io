@@ -88,9 +88,4 @@ En C++, los flujos estándar de datos son cin para entrada y cout para salida. A
 
 ![First Code](/assets/images/IntroduccionC++-images/FirstCode.jpg)
 
-
-
-El programa que vamos a realizar simplemente una variable que recibira el resultante de sumar *5 + 5*, cabe resaltar que en pantalla solo se mostrara un texto seguido del resultado de la suma, la ejecución del programa será prácticamente instantánea, abajo el ejemplo: 
-
-
 Muy bien, ya que conoces la estructura básica de un programa en C++, y una forma de documentar tu codigo, en las siguientes secciones vamos a ir mucho mas profundo, vamos a conocer otras nuevas estructuras y elementos usados comúnmente. Recuerda si tienes alguna duda o gustas aportar puedes mandarme un correo acerca de este contenido en particular y ayudarme a mejorar cada vez más el sitio. ¡¡Vamos ya!!.
