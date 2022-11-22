@@ -18,6 +18,7 @@ tags:
 * Estructura basica de C++
 * Documentacion del Codigo
 * Nuestra primera linea de codigo
+* Input & Output
 
 <br>
 
@@ -80,12 +81,26 @@ Bastante sencillo, no ?
 
 # Nuestra primera linea de codigo
 
-Me parece que la mejor forma de no perder el interés de los lectores en esta sección con muchos conceptos y teorías, es mediante un ejemplo *(a todos nos gusta la práctica con ejemplos)*. Veamos, entonces nuestro primer programa en C++, que aunque no es muy extenso ni complicado ni tampoco hace gran cosa, nos ayudará a establecer las bases que resultarán muy útiles en los siguientes ejemplos que irán apareciendo durante el resto del curso. No te preocupes si no comprendes nada al principio, pues me encargaré de irte enseñando cada cosa y así no te pierdas, si no entiendes algo o crees que me faltó explicar alguna cosa, dímelo, para eso puedes encontrar del lado izquierdo mi contacto
+Me parece que la mejor forma de no perder el interés de los lectores en esta sección con muchos conceptos y teorías, es mediante un ejemplo *(a todos nos gusta la práctica con ejemplos)*. Veamos, entonces nuestro primer programa en C++, que aunque no es muy extenso ni complicado ni tampoco hace gran cosa, nos ayudará a establecer las bases que resultarán muy útiles en los siguientes ejemplos que irán apareciendo durante el resto del curso. No te preocupes si no comprendes nada al principio, pues me encargaré de irte enseñando cada cosa y así te pierdas, si no entiendes algo o crees que me faltó explicar alguna cosa, dímelo, para eso puedes encontrar del lado izquierdo mi contacto
 
-### Input & Output
+Aqui abajo tenemos un Codigo sencillo, lo unico que hace es mostrar un texto por pantalla el cual es el tipico "Hola Mundo"
+
+![Firt Line](/assets/images/IntroduccionC++-images/FirtLine.jpg)
+
+Como habiamos explicado anteriormente el uso de cout nos permite mostrar texto por pantalla se le agregan dos signos de menor que *<<*, el cual se le llama como corrimiento de bits a la izquierda pero no se preocupen no tienen que entender esto por ahora, seguido de las comillas dobles, donde dentro de ellas ira todo tipo de texto que deseemos mostrar por pantalla y finalizamos con un punto y coma, esto es importante ya que estamos cerrando una instruccion, todas las instrucciones que le pasemos a un programa en C++ deben de terminar con un punto y coma *;*
+Prueba el codigo y escribe cualquier cosa dentro de las comillas!.
+
+Y asi es como tenemos nuestra primera linea de codigo en C++.
+Como puedes notar fue algo senillo y rapido ahora para meterle algo mas de entretenimiento vamos a pasar a la siguiente seccion. Vamos ya!
+
+<br>
+
+# Input & Output
 
 En C++, los flujos estándar de datos son cin para entrada y cout para salida. Además se pueden utilizar las funciones de C como scanf y printf. La entrada de datos para un programa en C++ generalmente consiste en números y cadenas de texto que son separados con espacios y nuevas líneas. Se pueden leer desde la corriente de cin como Sigue:
 
 ![First Code](/assets/images/IntroduccionC++-images/FirstCode.jpg)
+
+<br>
 
 Muy bien, ya que conoces la estructura básica de un programa en C++, y una forma de documentar tu codigo, en las siguientes secciones vamos a ir mucho mas profundo, vamos a conocer otras nuevas estructuras y elementos usados comúnmente. Recuerda si tienes alguna duda o gustas aportar puedes mandarme un correo acerca de este contenido en particular y ayudarme a mejorar cada vez más el sitio. ¡¡Vamos ya!!.
