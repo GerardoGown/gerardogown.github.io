@@ -13,7 +13,10 @@ tags:
   - C++ 
 ---
 
-# contenido
+<br>
+
+# Contenido:
+
 * ¿Que es C++?
 * Estructura basica de C++
 * Documentacion del Codigo
@@ -39,6 +42,8 @@ C++ fue creado a mediados de los años 80 por el danes **Bjarne Stroustrup**, es
 Un programa en C++ en una coleccion de comandos o sentencias que en distintas ocasiones nos va a permitir hacer llamadas directas al sistema operativo, ya que tiene un acceso directo a la memoria y que ademas controla el usuario, tambien nos sirve para crear datos complejos relacionar estos mismos datos, implementar patrones de diseño etc.
 Aqui abajo les dejo como es la estructura basica en C++ y posteriormente explicare que hace cada linea de codigo
 
+<br>
+
 ![Struc Basic](/assets/images/IntroduccionC++-images/StrucBasic.png)
 
 <br>
@@ -60,7 +65,7 @@ En C++ tambien se pueden agregar comentarios, los comentarios son lineas de codi
 Existen dos formas de hacer un comentario y estas no estan sujetas a restricciones de sintaxis, la sintaxis es la forma en la que se debe escribir determinado lenguaje no solo de programacion si no tambien el español, el ingles etc. asi que podemos ser libres de escribir cualquier cosa dentro de un comentario
 
 
-### Tipos de comentarios
+## Tipos de comentarios
 
 **Comentarios de una sola linea:**.
 
@@ -88,6 +93,8 @@ Me parece que la mejor forma de no perder el interés de los lectores en esta se
 Aqui abajo tenemos un Codigo sencillo, lo unico que hace es mostrar un texto por pantalla el cual es el tipico "Hola Mundo"
 
 ![Firts Line](/assets/images/IntroduccionC++-images/FirstLine.jpg)
+
+<br>
 
 Como habiamos explicado anteriormente el uso de cout nos permite mostrar texto por pantalla se le agregan dos signos de menor que *<<*, el cual se le llama como corrimiento de bits a la izquierda pero no se preocupen no tienen que entender esto por ahora, seguido de las comillas dobles, donde dentro de ellas ira todo tipo de texto que deseemos mostrar por pantalla y finalizamos con un punto y coma, esto es importante ya que estamos cerrando una instruccion, todas las instrucciones que le pasemos a un programa en C++ deben de terminar con un punto y coma *;*
 Prueba el codigo y escribe cualquier cosa dentro de las comillas!.
