@@ -24,6 +24,7 @@ tags:
 
 # ¿Que es C++?
 
+<br>
 
 **C++** tiende a ser la razon por la que cerca de la mitad de los ingenieros en sistemas en latinoamerica se graduan sin saber programar.
 
@@ -98,9 +99,14 @@ Como puedes notar fue algo senillo y rapido ahora para meterle algo mas de entre
 
 # Input & Output
 
+<br>
+
 En C++, los flujos estándar de datos son cin para entrada y cout para salida. Además se pueden utilizar las funciones de C como scanf y printf. La entrada de datos para un programa en C++ generalmente consiste en números y cadenas de texto que son separados con espacios y nuevas líneas. Se pueden leer desde la corriente de cin como Sigue:
 
+<br>
+
 ![First Code](/assets/images/IntroduccionC++-images/FirstCode.jpg)
+
 
 Bien por ahora no les daremos importancia a la linea 6 y 7, lo cual nos lleva directo a la linea 9 y 10 donde hacemos uso de cin y cout, usamos cin para poder ingresar datos por teclado seguido de los signos de mayor que *>>* para señalar donde se van a gurdar los datos ingresados.
 
